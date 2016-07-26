@@ -1,0 +1,13 @@
+language: python - "2.7"
+sudo: false
+
+install:
+    - pip install --user travis-sphinx sphinx_rtd_theme sphinxcontrib-disqus
+    - export PATH=$HOME/.local/bin:$PATH
+
+script:
+    - travis-sphinx --pullrequests --source=source build
+    - echo 'faq.nousmotards.com' > target/doc/build/CNAME
+
+after_success:
+    - travis-sphinx deploy
