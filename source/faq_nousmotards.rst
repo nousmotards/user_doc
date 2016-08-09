@@ -94,22 +94,73 @@ Pour ne plus recevoir les notifications sur téléphone ou bien supprimer simple
 .. image:: images/nm_android_pref_notif.jpg
     :align: center
 
-Comment ajouter des motards en tant que ami ?
----------------------------------------------
+Ajouter des motards comme ami
+-----------------------------
 
-Comment rejoindre ou créer un club ?
-------------------------------------
+Rejoindre ou créer un club
+--------------------------
 
-Comment participer à une balade ?
----------------------------------
+Les Clubs sont des groupes de motards ayant un même centre d'intérêt. Il en existe par exemple pour des évènements mondiaux comme les "Moto GP", par région de France ou autre comme le Stunt. C'est une manière de rassembler les personnes par rapport à leurs envies et intérêts.
 
-Comment proposer une balade ou un autre type d’événement ?
-----------------------------------------------------------
+Comme type de clubs, nous proposons:
 
-Comment créer un roadbook ?
----------------------------
+* Groupe
+* Association
+* Boutique
+* Garage
+* Restaurant
+* Hotel
 
-Comment exporter/importer un roadbook ?
----------------------------------------
+Rejoindre un club
+^^^^^^^^^^^^^^^^^
+
+Pour rejoindre un Club, allez dans le menu "Clubs", vous obtiendez alors la liste des clubs disponible:
+
+.. image:: images/nm_android_clubs_list.jpg
+    :align: center
+
+Si vous avez déjà une idée du club qui vous intéresserait, vous pouvez le chercher directement en appuyant sur l'icone de la loupe. Si nous cherchons "motogp" par exemple:
+
+.. image:: images/nm_android_clubs_search_results.jpg
+    :align: center
+
+Appuyez sur le résultat qui vous intéresse pour obtenir la page d'accueil du club:
+
+.. image:: images/nm_android_clubs_overview.jpg
+    :align: center
+
+Pour devenir membre du club, il ne vous reste plus qu'à activer le bouton "Suivre". Vous serez alors notifié lorsqu'un nouveau post sera présent dans le club.
+
+Vous pouvez naviguer de gauche à droite et inversement pour voir les posts, images, membres, etc...relatifs au club.
+
+Créer un club
+^^^^^^^^^^^^^
+
+Pour créer un club, allez dans le menu "Clubs", puis appuyez en haut à droite sur l'icône avec les 2 têtes et un "+":
+
+.. image:: images/nm_android_clubs_list.jpg
+    :align: center
+
+Une page vous proposant la création d'un club s'affichera alors:
+
+.. image:: images/nm_android_clubs_create.jpg
+    :align: center
+
+Remplissez les champs nécessaire pour la création de votre club.
+
+.. note:: Le mieux vous remplirez les informations de votre club, le plus de participants vous aurez. C'est pourquoi il est important de remplir soigneusement tous les champs.
+
+
+Participer à une balade
+-----------------------
+
+Proposer une balade ou un autre type d’événement
+------------------------------------------------
+
+Créer un roadbook
+-----------------
+
+Exporter/importer un roadbook
+-----------------------------
 
 .. disqus::
