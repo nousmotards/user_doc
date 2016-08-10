@@ -1,6 +1,8 @@
 La FAQ Nousmotards
 ==================
 
+.. contents:: Topics
+
 Comment créer un compte ?
 -------------------------
 
@@ -153,6 +155,21 @@ Remplissez les champs nécessaire pour la création de votre club.
 
 Participer à une balade
 -----------------------
+
+Pour participer à une balade, allez dans le menu, puis appuyez sur "Balades & évènements", vous obtiendez la liste des balades et évènements:
+
+.. image:: images/nm_android_events_list.jpg
+    :align: center
+
+Pour particper à l'un d'entre eux, appuyez dessus pour obtenir sa description et ses informations:
+
+.. image:: images/nm_android_events_overview.jpg
+    :align: center
+
+Pour participer à cet évènement, il suffit d'activer le bouton "Participer".
+
+.. note:: Veillez à ce qu'il y ai bien des places disponible (ici 5 personnes sont déjà inscrites sur un maximum de 10).
+
 
 Proposer une balade ou un autre type d’événement
 ------------------------------------------------

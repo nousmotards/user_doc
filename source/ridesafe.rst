@@ -1,6 +1,8 @@
 Le projet RideSafe
 ==================
 
+.. contents:: Topics
+
 Qu’est-ce que RideSafe ?
 ------------------------
 

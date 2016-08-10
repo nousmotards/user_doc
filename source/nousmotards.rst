@@ -1,6 +1,8 @@
 Le projet Nousmotards
 =====================
 
+.. contents:: Topics
+
 Qu’est-ce que Nousmotards ?
 ---------------------------
 
