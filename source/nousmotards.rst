@@ -40,8 +40,18 @@ Nousmotards tente en plus de cela d'avoir un produit conviviale, que les gens ai
 Qu’est-ce que RideSafe ?
 ------------------------
 
+Les chutes à moto font partie de la vie du motard. Même si on aimerait s'en passer, rares sont ceux qui arrivent à rouler toute leur vie sans avoir le moindre pépin.. Pour les autres, l'équipe Nousmotards et ses partenaires se sont lancés dans un projet ambitieux qui se nomme RideSafe !
+
+RideSafe est notre réponse technologique libre se basant sur des algorithmes de prédiction pour détecter la chute des motards ! Pour obtenir plus d'informations, rendez vous dans la :ref:`rubrique dédiée à RideSafe<ridesafe-project>`.
+
 Qu’est-ce que RideShare ?
 -------------------------
+
+Qui n'a jamais inquiété un de ses proches parce qu'il allait partir à moto ? Equipé d'un intercom il est facile de recevoir un appel et d'y répondre pour dire que tout va bien mais que se passe t-il si nous n'en sommes pas pourvu ? La personne s'inquiète inutilement !
+
+C'est là que RideShare vient aider les motards à rassurer leurs proches ! RideShare est une fonctionnalité de NM permettant aux motards de automatiquement signaler à leurs contacts (par SMS et/ou NM) qu'ils sont sur le point de prendre la route et ainsi leur partager leur position en temps réel.
+
+Pour avoir plus d'informations, rendez vous dans la :ref:`rubrique dédiée à RideShare<rideshare-project>`.
 
 Pourquoi autant de projets ?
 ----------------------------

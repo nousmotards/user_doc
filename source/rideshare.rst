@@ -1,3 +1,5 @@
+.. _rideshare-project:
+
 Le projet RideSafe
 ==================
 

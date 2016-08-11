@@ -28,8 +28,8 @@ Table des matières
     :numbered:
 
     nousmotards
-    faq_nousmotards
     ridesafe
     rideshare
+    faq_nousmotards
 
 .. disqus::

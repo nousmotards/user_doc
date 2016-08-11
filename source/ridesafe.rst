@@ -1,3 +1,5 @@
+.. _ridesafe-project:
+
 Le projet RideSafe
 ==================
 

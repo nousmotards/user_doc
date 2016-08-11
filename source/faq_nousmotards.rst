@@ -174,6 +174,24 @@ Pour participer à cet évènement, il suffit d'activer le bouton "Participer".
 Proposer une balade ou un autre type d’événement
 ------------------------------------------------
 
+Vous pouvez vous même créer votre évènement simplement. C'est très utile si vous souhaitez qu'il y ai du monde qui soit notifié de votre évènement en fonction de la distance du lieu de rendez vous.
+
+Pour créer un évènement, c'est simple, il suffit d'aller dans le menu des évènements, puis en appuyant sur le bouton "+" en haut à droite. Vous accéderez alors à une page de création comme celle ci:
+
+.. image:: images/nm_android_events_create.jpg
+    :align: center
+
+Vous pourrez alors choisir entre plusieurs types d'évènements:
+
+* Balade
+* Manifestation
+* Rassemblement
+* Piste
+* Repas
+* Autre
+
+A vous de choisir ce qui convient le mieux pour votre évènement. Remplissez les champs restant et validez. Les personnes souhaitant être notifiées et étant dans un rayon assez proche reçevront une alerte leur proposant de participer à cet évènement.
+
 Créer un roadbook
 -----------------
 
