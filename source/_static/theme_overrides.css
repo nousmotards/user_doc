@@ -52,3 +52,7 @@ a:hover {
 a:visited.fa-home {
 	color: #ef4036;
 }
+
+h2 {
+  padding-top: 50px;
+}
