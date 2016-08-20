@@ -1,7 +1,17 @@
-La FAQ Nousmotards
-==================
+Questions les plus fréquentes
+=============================
 
 .. contents:: Topics
+
+.. _install_nm:
+
+Comment accéder à Nousmotards ?
+-------------------------------
+
+* Via `Android <https://play.google.com/store/apps/details?id=com.nousmotards.android>`_
+* Via Apple iOS (disponible fin 2016)
+* Via le `site web <https://www.nousmotards.com>`_
+
 
 Comment créer un compte ?
 -------------------------
@@ -18,17 +28,19 @@ Nous allons voir ces 2 là en détails.
 Application mobile
 ^^^^^^^^^^^^^^^^^^
 
-Lorsque vous avez `installé Nousmotards <https://play.google.com/store/apps/details?id=com.nousmotards.android>`_, lancez pour la première fois l'application, vous aurez alors la première page de login:
+Lancez l'application, une fois que vous l'avez :ref:`installée<install_nm>`:
 
 .. image:: images/nm_android_login.jpg
     :align: center
 
-Vous pouvez alors vous créer un compte de 2 manières:
+Cliquez sur:
 
-* *Facebook*: de façon très rapide via votre compte Facebook en cliquant sur le bouton *Facebook*.
-* *Nousmotards*: vous pouvez créer un compte dédié Noumotards en appuyant sur le bouton *Créer un compte*.
+* *SE CONNECTER AVEC FACEBOOK*: pour se connecter via votre compte Facebook.
+* *SE CONNECTER*: créer un compte dédié Noumotards
 
-Si vous avez opté pour Facebook, pas la peine d'aller plus loin, suivez les instructions à l'écran et vous serez connectés. Pour le compte dédié Nousmotards, entrez simplement les informations suivantes et appuyez sur le bouton rouge en bas:
+.. note:: Si vous avez opté pour Facebook, pas la peine d'aller plus loin, suivez les instructions à l'écran et vous serez connecté.
+
+Si vous avez opté pour le compte Nousmotards, entrez simplement les informations suivantes et appuyez sur le bouton rouge en bas:
 
 .. image:: images/nm_android_register.jpg
     :align: center
@@ -47,18 +59,28 @@ Lorsque vous allez sur `l'interface web de Nousmotards <https://www.nousmotards.
 .. image:: images/nm_web_register.jpg
     :align: center
 
-Vous pouvez alors vous créer un compte de 2 manières:
+Cliquez sur:
 
-* *Facebook*: de façon très rapide via votre compte Facebook en cliquant sur le bouton *Facebook*.
-* *Nousmotards*: vous pouvez créer un compte dédié Noumotards en remplissant les champs indiqués, puis en cliquant sur le bouton *Inscription*.
-
+* *SE CONNECTER AVEC FACEBOOK*: pour se connecter via votre compte Facebook.
+* *SE CONNECTER*: créer un compte dédié Noumotards
 
 Votre compte sera alors créer et vous pourrez immédiatement utiliser Nousmotards.
 
+J'ai déjà un compte
+-------------------
+
+J'ai oublié mon mot de passe
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Réinitialisez votre mot de passe en `cliquant ici <https://www.nousmotards.com/mot-de-passe-perdu>`_.
+
+J'ai oublié mon identifiant
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Contactez nous par mail <support@nousmotards.com>`_.
+
 Comment compléter mon profil ?
 ------------------------------
-
-Il est important de compléter son profil pour plusieurs raisons. Tout d'abord pour que d'autre motards puissent vous retrouver simplement. Et puis ensuite car il est nécessaire pour certaines fonctionnalitées que ces informations soient correctement remplie pour qu'elles fonctionnent correctement.
 
 Vous pouvez choisir de remplir vos informations de 2 façons. Via l'application mobile, en allant dans *Paramètres*, puis *Mon profil*. Ou bien via l'application web, en allant dans votre profil personnel. Pour aller dans cet espace, lorsque vous êtes connecté, allez en haut à droite et cliquez sur la petite flêche à côté de votre nom:
 
@@ -69,6 +91,37 @@ Puis cliquez sur *Mon compte*. Vous pourrez alors remplir tous les champs néces
 
 .. image:: images/nm_web_user_pref.jpg
     :align: center
+
+.. note:: Il est important de compléter son profil pour plusieurs raisons. Tout d'abord pour que d'autre motards puissent vous retrouver simplement. Et puis ensuite car il est nécessaire pour certaines fonctionnalitées que ces informations soient correctement remplie pour qu'elles fonctionnent correctement.
+
+Qu'est-ce qu'un club ?
+----------------------
+
+Les Clubs sont des groupes de motards ayant un même centre d'intérêt. Il en existe par exemple pour des évènements mondiaux comme les "Moto GP", par région de France ou autre comme le Stunt. C'est une manière de rassembler les personnes par rapport à leurs envies et intérêts.
+
+Comme type de clubs, nous proposons:
+
+* Groupe
+* Association
+* Boutique
+* Garage
+* Restaurant
+* Hotel
+
+Qu'est-ce qu'un événement ?
+---------------------------
+
+Un événement permet à l’utilisateur d’organiser de manière simple une sortie, que ce soit une balade à moto, un resto ou une participation à une manifestation de grande ampleur. Le tout est géolocalisé et averti les membres de "Nousmotards" proches dudit événement.
+
+Qu'est-ce qu'un Roadbook ?
+--------------------------
+
+Créez vos parcours ! Avec l’outil de création de roadbooks, il est très facile de créer son parcours pour une balade et de le publier sur "Nousmotards". Que ce soit pour préparer le trajet de la sortie à venir, de l’exporter sur son GPS*, ou bien juste partager avec la communauté un bout de route sympathique, pas de problème !
+
+Qu'est-ce qu'une vente groupée ?
+--------------------------------
+
+La ventre groupée est organisée régulièrement sur des produits demandés par la communauté. Grâce à nos partenaire, les membres de Nousmotards ont un accès privilégié à des articles à tarifs réduits
 
 Comment ne plus recevoir de mails ?
 -----------------------------------
@@ -101,17 +154,6 @@ Ajouter des motards comme ami
 
 Rejoindre ou créer un club
 --------------------------
-
-Les Clubs sont des groupes de motards ayant un même centre d'intérêt. Il en existe par exemple pour des évènements mondiaux comme les "Moto GP", par région de France ou autre comme le Stunt. C'est une manière de rassembler les personnes par rapport à leurs envies et intérêts.
-
-Comme type de clubs, nous proposons:
-
-* Groupe
-* Association
-* Boutique
-* Garage
-* Restaurant
-* Hotel
 
 Rejoindre un club
 ^^^^^^^^^^^^^^^^^
