@@ -21,7 +21,7 @@ Pour créer un compte Nousmotards c'est simple, il existe 2 solutions:
 * Via l':ref:`account-application-mobile`.
 * Via l':ref:`account-web-interface`.
 
-Nous allons voir ces 2 là en détails.
+Nous allons voir ces deux là en détails.
 
 .. _account-application-mobile:
 
@@ -64,7 +64,7 @@ Cliquez sur:
 * *SE CONNECTER AVEC FACEBOOK*: pour se connecter via votre compte Facebook.
 * *SE CONNECTER*: créer un compte dédié Noumotards
 
-Votre compte sera alors créer et vous pourrez immédiatement utiliser Nousmotards.
+Votre compte sera alors créé et vous pourrez immédiatement utiliser Nousmotards.
 
 J'ai déjà un compte
 -------------------
@@ -88,7 +88,7 @@ Je n'arrive pas à me connecter
 Comment compléter mon profil ?
 ------------------------------
 
-Vous pouvez choisir de remplir vos informations de 2 façons. Via l'application mobile, en allant dans *Paramètres*, puis *Mon profil*. Ou bien via l'application web, en allant dans votre profil personnel. Pour aller dans cet espace, lorsque vous êtes connecté, allez en haut à droite et cliquez sur la petite flêche à côté de votre nom:
+Vous pouvez choisir de remplir vos informations de deux façons. Via l'application mobile, en allant dans *Paramètres*, puis *Mon profil*. Ou bien via l'application web, en allant dans votre profil personnel. Pour aller dans cet espace, lorsque vous êtes connecté, allez en haut à droite et cliquez sur la petite flêche à côté de votre nom:
 
 .. image:: images/nm_web_user_menu.jpg
     :align: center
@@ -98,7 +98,7 @@ Puis cliquez sur *Mon compte*. Vous pourrez alors remplir tous les champs néces
 .. image:: images/nm_web_user_pref.jpg
     :align: center
 
-.. note:: Il est important de compléter son profil pour plusieurs raisons. Tout d'abord pour que d'autre motards puissent vous retrouver simplement. Et puis ensuite car il est nécessaire pour certaines fonctionnalitées que ces informations soient correctement remplie pour qu'elles fonctionnent correctement.
+.. note:: Il est important de compléter son profil pour plusieurs raisons. Tout d'abord pour que d'autre motards puissent vous retrouver simplement. Et puis ensuite car il est nécessaire pour certaines fonctionnalitées que ces informations soient complétées pour qu'elles fonctionnent correctement.
 
 Qu'est-ce qu'un club ?
 ----------------------
@@ -117,17 +117,17 @@ Comme type de clubs, nous proposons:
 Qu'est-ce qu'un événement ?
 ---------------------------
 
-Un événement permet à l’utilisateur d’organiser de manière simple une sortie, que ce soit une balade à moto, un resto ou une participation à une manifestation de grande ampleur. Le tout est géolocalisé et averti les membres de "Nousmotards" proches dudit événement.
+Un événement permet à l’utilisateur d’organiser de manière simple une sortie, que ce soit une balade à moto, un resto ou une participation à une manifestation de grande ampleur. Le tout est géolocalisé et notifie les membres de "Nousmotards" proches dudit événement.
 
 Qu'est-ce qu'un Roadbook ?
 --------------------------
 
-Créez vos parcours ! Avec l’outil de création de roadbooks, il est très facile de créer son parcours pour une balade et de le publier sur "Nousmotards". Que ce soit pour préparer le trajet de la sortie à venir, de l’exporter sur son GPS*, ou bien juste partager avec la communauté un bout de route sympathique, pas de problème !
+Créez vos parcours ! Avec l’outil de création de roadbooks, il est très facile de créer son parcours pour une balade et de le publier sur "Nousmotards". Que ce soit pour préparer le trajet de la sortie à venir, de l’exporter sur son GPS*, ou bien juste partager avec la communauté un bout de route sympathique.
 
 Qu'est-ce qu'une vente groupée ?
 --------------------------------
 
-La ventre groupée est organisée régulièrement sur des produits demandés par la communauté. Grâce à nos partenaire, les membres de Nousmotards ont un accès privilégié à des articles à tarifs réduits
+La vente groupée est organisée régulièrement sur des produits demandés par la communauté. Grâce à nos partenaires, les membres de Nousmotards ont un accès privilégié à des articles à tarifs réduits
 
 Comment ne plus recevoir de mails ?
 -----------------------------------
@@ -186,7 +186,7 @@ Vous pouvez naviguer de gauche à droite et inversement pour voir les posts, ima
 Créer un club
 ^^^^^^^^^^^^^
 
-Pour créer un club, allez dans le menu "Clubs", puis appuyez en haut à droite sur l'icône avec les 2 têtes et un "+":
+Pour créer un club, allez dans le menu "Clubs", puis appuyez en haut à droite sur l'icône avec les deux têtes et un "+":
 
 .. image:: images/nm_android_clubs_list.jpg
     :align: center
@@ -196,9 +196,9 @@ Une page vous proposant la création d'un club s'affichera alors:
 .. image:: images/nm_android_clubs_create.jpg
     :align: center
 
-Remplissez les champs nécessaire pour la création de votre club.
+Remplissez les champs nécessaires pour la création de votre club.
 
-.. note:: Le mieux vous remplirez les informations de votre club, le plus de participants vous aurez. C'est pourquoi il est important de remplir soigneusement tous les champs.
+.. note:: Plus précises seront les informations de votre club, plus de participants vous aurez. C'est pourquoi il est important de remplir soigneusement tous les champs.
 
 
 Participer à une balade
@@ -222,7 +222,7 @@ Pour participer à cet évènement, il suffit d'activer le bouton "Participer".
 Proposer une balade ou un autre type d’événement
 ------------------------------------------------
 
-Vous pouvez vous même créer votre évènement simplement. C'est très utile si vous souhaitez qu'il y ai du monde qui soit notifié de votre évènement en fonction de la distance du lieu de rendez vous.
+Vous pouvez vous même créer votre évènement. C'est très utile si vous souhaitez qu'il y ai du monde qui soit notifié de votre évènement en fonction de la distance du lieu de rendez vous.
 
 Pour créer un évènement, c'est simple, il suffit d'aller dans le menu des évènements, puis en appuyant sur le bouton "+" en haut à droite. Vous accéderez alors à une page de création comme celle ci:
 
