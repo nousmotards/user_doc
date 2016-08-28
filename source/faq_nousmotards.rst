@@ -79,6 +79,12 @@ J'ai oublié mon identifiant
 
 `Contactez nous par mail <support@nousmotards.com>`_.
 
+Je n'arrive pas à me connecter
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Contactez nous par mail <support@nousmotards.com>`_.
+
+
 Comment compléter mon profil ?
 ------------------------------
 
