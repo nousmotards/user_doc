@@ -61,6 +61,8 @@ IMAGE POI FLECHE
 
 Une fois dans le menu du POI, vous pouvez ajouter une photo, le partager et même le noter et y ajouter un commentaire en appuyant sur la jauge à étoiles. 
 
+IMAGE MENU DU POI
+
 Est-ce que mes données sont en sécurités ?
 ------------------------------------------
 
