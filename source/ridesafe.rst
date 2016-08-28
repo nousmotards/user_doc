@@ -38,6 +38,6 @@ Notre fer de lance est une fiabilité qui tend vers le 100% et RideSafe ne sorti
 Notre but ?
 -----------
 
-Proposer un outil de survie aux motards qui est fiable à 100% car dans la majorité des décés, la raison est le manque de soin dans les premiers instants après l'accident.
+Proposer un outil de survie aux motards qui est fiable à 100% car dans la majorité des décés, la principale raison est le manque de soins dans les premiers instants après l'accident.
 
 .. disqus::
