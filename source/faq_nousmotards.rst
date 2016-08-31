@@ -45,7 +45,7 @@ Si vous avez opté pour le compte Nousmotards, entrez simplement les information
 .. image:: images/nm_android_register.jpg
     :align: center
 
-Votre compte sera alors créer et vous pourrez immédiatement utiliser Nousmotards.
+Votre compte sera alors créé et vous pourrez immédiatement utiliser Nousmotards.
 
 .. note:: Veillez à ce que vos informations soient correct pour bénéficier de toutes les fonctionnalités de Nousmotards
 
@@ -100,34 +100,10 @@ Puis cliquez sur *Mon compte*. Vous pourrez alors remplir tous les champs néces
 
 .. note:: Il est important de compléter son profil pour plusieurs raisons. Tout d'abord pour que d'autre motards puissent vous retrouver simplement. Et puis ensuite car il est nécessaire pour certaines fonctionnalitées que ces informations soient complétées pour qu'elles fonctionnent correctement.
 
-Qu'est-ce qu'un club ?
-----------------------
-
-Les Clubs sont des groupes de motards ayant un même centre d'intérêt. Il en existe par exemple pour des évènements mondiaux comme les "Moto GP", par région de France ou autre comme le Stunt. C'est une manière de rassembler les personnes par rapport à leurs envies et intérêts.
-
-Comme type de clubs, nous proposons:
-
-* Groupe
-* Association
-* Boutique
-* Garage
-* Restaurant
-* Hotel
-
-Qu'est-ce qu'un événement ?
----------------------------
-
-Un événement permet à l’utilisateur d’organiser de manière simple une sortie, que ce soit une balade à moto, un resto ou une participation à une manifestation de grande ampleur. Le tout est géolocalisé et notifie les membres de "Nousmotards" proches dudit événement.
-
-Qu'est-ce qu'un Roadbook ?
---------------------------
-
-Créez vos parcours ! Avec l’outil de création de roadbooks, il est très facile de créer son parcours pour une balade et de le publier sur "Nousmotards". Que ce soit pour préparer le trajet de la sortie à venir, de l’exporter sur son GPS*, ou bien juste partager avec la communauté un bout de route sympathique.
-
 Qu'est-ce qu'une vente groupée ?
 --------------------------------
 
-La vente groupée est organisée régulièrement sur des produits demandés par la communauté. Grâce à nos partenaires, les membres de Nousmotards ont un accès privilégié à des articles à tarifs réduits
+La vente groupée est organisée régulièrement sur des produits demandés par la communauté. Grâce à nos partenaires, les membres de Nousmotards ont un accès privilégié à des articles à tarifs réduits.
 
 Comment ne plus recevoir de mails ?
 -----------------------------------
@@ -155,11 +131,19 @@ Pour ne plus recevoir les notifications sur téléphone ou bien supprimer simple
 .. image:: images/nm_android_pref_notif.jpg
     :align: center
 
-Ajouter des motards comme ami
------------------------------
+Qu'est-ce qu'un club ?
+----------------------
 
-Rejoindre ou créer un club
---------------------------
+Les Clubs sont des groupes de motards ayant un même centre d'intérêt. Il en existe par exemple pour des évènements mondiaux comme les "Moto GP", par région de France ou autre comme le Stunt. C'est une manière de rassembler les personnes par rapport à leurs envies et intérêts.
+
+Comme type de clubs, nous proposons:
+
+* Groupe
+* Association
+* Boutique
+* Garage
+* Restaurant
+* Hotel
 
 Rejoindre un club
 ^^^^^^^^^^^^^^^^^
@@ -200,9 +184,11 @@ Remplissez les champs nécessaires pour la création de votre club.
 
 .. note:: Plus précises seront les informations de votre club, plus de participants vous aurez. C'est pourquoi il est important de remplir soigneusement tous les champs.
 
+Qu'est-ce qu'un événement ?
+---------------------------
 
-Participer à une balade
------------------------
+Participer à un évènement
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Pour participer à une balade, allez dans le menu, puis appuyez sur "Balades & évènements", vous obtiendez la liste des balades et évènements:
 
@@ -219,8 +205,10 @@ Pour participer à cet évènement, il suffit d'activer le bouton "Participer".
 .. note:: Veillez à ce qu'il y ai bien des places disponible (ici 5 personnes sont déjà inscrites sur un maximum de 10).
 
 
+Un événement permet à l’utilisateur d’organiser de manière simple une sortie, que ce soit une balade à moto, un resto ou une participation à une manifestation de grande ampleur. Le tout est géolocalisé et notifie les membres de "Nousmotards" proches dudit événement.
+
 Proposer une balade ou un autre type d’événement
-------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Vous pouvez vous même créer votre évènement. C'est très utile si vous souhaitez qu'il y ai du monde qui soit notifié de votre évènement en fonction de la distance du lieu de rendez vous.
 
@@ -240,10 +228,13 @@ Vous pourrez alors choisir entre plusieurs types d'évènements:
 
 A vous de choisir ce qui convient le mieux pour votre évènement. Remplissez les champs restant et validez. Les personnes souhaitant être notifiées et étant dans un rayon assez proche reçevront une alerte leur proposant de participer à cet évènement.
 
-Créer un roadbook
------------------
+Qu'est-ce qu'un Roadbook ?
+--------------------------
 
-Exporter/importer un roadbook
------------------------------
+Créez vos parcours ! Avec l’outil de création de roadbooks, il est très facile de créer son parcours pour une balade et de le publier sur "Nousmotards". Que ce soit pour préparer le trajet de la sortie à venir, de l’exporter sur son GPS*, ou bien juste partager avec la communauté un bout de route sympathique.
+
+..
+  Créer un roadbook
+  Exporter/importer un roadbook
 
 .. disqus::
